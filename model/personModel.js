@@ -1,4 +1,4 @@
-const mongoose = require("mongoose");
+const mongoose = require("mongoose checkpoint");
 const { Schema } = mongoose;
 
 const personSchema = new Schema({
